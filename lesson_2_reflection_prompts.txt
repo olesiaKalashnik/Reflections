@@ -1,0 +1,20 @@
+What happens when you initialize a repository? Why do you need to do it?
+When I initiate  repository, a separate hidden directory is being created, which will contain all the commits I'll make in the future. I need to do it to be able to have an access to the history of my project.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers? 
+Staging area is like a shopping cart, in which you put stuff that you select from your working directory in order to commit it to your git repository (like you check out your purchasesat the cash register). It gives you more control over the commit process, as it lets you pick seperate files that you prefer to commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
