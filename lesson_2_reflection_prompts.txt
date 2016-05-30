@@ -7,9 +7,11 @@ Staging area is like a shopping cart, in which you put stuff that you select fro
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+You can compaire the files you added to the staging area with the commit in git repository and see if the changes you made to this file (in working directory) are really logical changes that you want to commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches can come in handy when you are experimenting on a new feature in your program or a new version of it. You branch off from your master, give your branch a reasonable label and work on it without worrying about master, which can be developed too meanwhile.
 
 How do the diagrams help you visualize the branch structure?
 
