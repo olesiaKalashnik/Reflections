@@ -1,0 +1,2 @@
+When would you want to create a remote repository rather than keeping your work local?
+- You'd prefer to create a remote repository, if you want your work to be accessed publicly. This is most important when you are not the only contributor to the project you are working on.
